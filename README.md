@@ -5,7 +5,7 @@
  
 ### TUTORIAL OWNER/PREMIUM
 
-<a><img href="https://youtu.be/qYv8p_hMb-w"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@vortex-X-no-Name-Tech
+<a href="https://youtu.be/qYv8p_hMb-w"><img<src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@vortex-X-no-Name-Tech
 
 
  
