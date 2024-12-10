@@ -5,10 +5,9 @@
  
 ### TUTORIAL OWNER/PREMIUM
 
-<a href="https://youtu.be/qYv8p_hMb-w"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/qYv8p_hMb-w" /><br>
+<a href="https://www.youtube.com/@vortex-X-no-Name-Tech
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
+
  
 <p align="center">
 <a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/jHynY57/11993dc55c32a21a249ef1721fb66af4.jpg?style=for-the-badge&logo=github"></a>
