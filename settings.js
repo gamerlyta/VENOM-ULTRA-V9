@@ -10,26 +10,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "22959778549"
-global.ownername = "VorTexXNoNaMeTECH"
-global.ytname = "YT: VorTexXNoNaMeTECH"
-global.socialm = "GitHub: VorTexXNoNaMeTECH"
+global.ownernomer = "2347015751127"
+global.ownername = "LYTA TECH"
+global.ytname = "YT: LYTA manhwa"
+global.socialm = "GitHub: LYTATECH"
 global.location = "Benin, repubilc, Cotonou"
 
-global.ownernumber = '22959778549'  //creator number
-global.ownername = 'VorTexXNoNaMeTECH' //owner name
+global.ownernumber = '2347015751127'  //creator number
+global.ownername = 'lyta' //owner name
 global.botname = 'Venom-ultra-V9' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'VorTexXNoNaMeTECH\n\nContact: +22959778549'
+global.author = 'lyta\n\nContact: +2347084528285'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "VorTex Bot"
+global.wm = "LYTA Bot"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vaylj097z4keWU9KXG0N'
+global.link = 'https://whatsapp.com/channel/0029VbAU2cVKLaHx8h2aom36'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -41,7 +41,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
@@ -58,7 +58,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: 'Done !',
+    done: 'Done. we are venom!',
     prem: 'This feature can be used by premium user only',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
